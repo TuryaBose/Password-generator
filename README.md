@@ -10,5 +10,7 @@ Todo:
 * Integrate a database to store the passwords.
 * Setup different branches for working on different features.
 * Setup automatic unit testing.
+* Setup a virtual environment using poetry.
+* Try and use docker to further virtualize.
 * Learn about a more sophisticated and secure encryption system and implement it.
-*Work on design and implementation of a harware encryption key.
+* Work on design and implementation of a harware encryption key.
