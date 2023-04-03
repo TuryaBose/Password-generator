@@ -6,9 +6,9 @@ This project aims to create a password generator using an encryption key and lin
 
 Todo:
 
-*Get the project properly setup in github with a proper modular structure.
-*Integrate a database to store the passwords.
-*Setup different branches for working on different features.
-*Setup automatic unit testing.
-*Learn about a more sophisticated and secure encryption system and implement it.
+* Get the project properly setup in github with a proper modular structure.
+* Integrate a database to store the passwords.
+* Setup different branches for working on different features.
+* Setup automatic unit testing.
+* Learn about a more sophisticated and secure encryption system and implement it.
 *Work on design and implementation of a harware encryption key.
